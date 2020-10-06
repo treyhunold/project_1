@@ -21,3 +21,12 @@ Performed Random Forest Regression to produce predicted prices of Exxon stock. W
 ### Backtesting
 
 Utilized the Backtesting toolkit to use their SmaCross backtesting strategy to use it on the previous two years of Exxon stock and our trained data using sentiment analysis on the previous two years.
+
+### Technologies Used
+
+* Python 
+* VADER Sentiment Analysis
+* New York Times API
+* Natural Language Toolkit
+* Backtesting
+* Random Forest Regression
